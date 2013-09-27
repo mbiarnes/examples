@@ -1,0 +1,20 @@
+
+<form id="639060740">
+<property name="subject" value=""/>
+<property name="name" value="mpr-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="datMod_value_01" type="InputText" id="1165102964">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;value_01 (datMod)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="datMod/value_01"/>
+</field>
+<field position="1" name="datMod_value_02" type="InputText" id="391190649">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;value_02 (datMod)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="datMod/value_02"/>
+</field>
+<dataHolder inputId="" name="#0000A0" type="dataModelerEntry" outId="datMod" value="org.mdo_01" id="datMod"/>
+</form>

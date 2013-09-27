@@ -1,0 +1,20 @@
+
+<form id="1593974761">
+<property name="subject" value=""/>
+<property name="name" value="sub_FRM.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="subFRM_text_01" type="InputText" id="2099305564">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;text_01 (subFRM)quot;"/>
+<property name="inputBinding" value="subFRM_in/text_01"/>
+<property name="outputBinding" value="subFRM_out/text_01"/>
+</field>
+<field position="1" name="subFRM_text_02" type="InputText" id="65484395">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;text_02 (subFRM)quot;"/>
+<property name="inputBinding" value="subFRM_in/text_02"/>
+<property name="outputBinding" value="subFRM_out/text_02"/>
+</field>
+<dataHolder inputId="subFRM_in" name="#FBB767" type="dataModelerEntry" outId="subFRM_out" value="org.mdo_02" id="subFRM"/>
+</form>
